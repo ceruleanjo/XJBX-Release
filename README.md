@@ -1,7 +1,7 @@
 # TESTH5
 Test ground for my H5 Projects
 
-[Github Pages](https://ceruleanjo.github.com/TESTH5/)
+[Github Pages](https://ceruleanjo.github.io/TESTH5/)
 
 # Current
 
