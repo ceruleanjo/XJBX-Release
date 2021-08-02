@@ -5,5 +5,4 @@ Test ground for my H5 Projects
 
 # Current
 
-XJBX v0.8 2108012206
-
+XJBX v0.8 2108021936
