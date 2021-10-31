@@ -31,7 +31,7 @@ npc间的恩怨情仇不知道怎样安排吗？
 在线（功能受限）：
 + 🔗[Github Pages](https://ceruleanjo.github.io/XJBX-Release/)
 + 🔗[itch.io](https://cjo.itch.io/xjbx)
-+ 
+
 Windows版下载：
 + 🔗[Github](https://github.com/ceruleanjo/XJBX-Release/releases)
 + 🔗[下载](https://github.com/ceruleanjo/XJBX-Release/releases/download/prerelease/win-0.9-build211031.zip)
