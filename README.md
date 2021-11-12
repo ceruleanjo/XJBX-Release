@@ -1,5 +1,5 @@
 # XJBX脑洞助手
-> 当前版本：0.9 build 211106
+> 当前版本：0.9 build 211112
 
 还在为新作写什么CP而烦恼吗？
 剧本杀的角色关系没有灵感吗？
@@ -23,7 +23,7 @@ npc间的恩怨情仇不知道怎样安排吗？
 + 🔗[itch.io](https://cjo.itch.io/xjbx)
 Windows版下载：
 + 🔗[Github](https://github.com/ceruleanjo/XJBX-Release/releases)
-+ 🔗[下载](https://github.com/ceruleanjo/XJBX-Release/releases/download/prerelease/win-0.9-build211031.zip)
++ 🔗[下载](https://github.com/ceruleanjo/XJBX-Release/releases/download/prerelease/XJBX-win-0.9-build-211112.zip)
 
 ## 使用方法
 按下🎲骰子按钮
